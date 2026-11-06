@@ -1,0 +1,3 @@
+Allocated slots: 0, 1
+Released slot 1; next allocation: 1
+Remaining free slots: 3
