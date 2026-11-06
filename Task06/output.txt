@@ -1,0 +1,3 @@
+Vehicle(regNo) TN06EV0006
+Car(regNo)
+ElectricCar(regNo)
