@@ -1,0 +1,3 @@
+VehicleRecord{regNo='TN01AB1111', type='Car'}
+Equal records: true
+Equal hash codes: true
