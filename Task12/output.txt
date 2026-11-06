@@ -1,0 +1,23 @@
+Two-wheeler 60 min             PASS Rs 10
+Car 120 min                    PASS Rs 60
+EV plus charging               PASS Rs 30 + Rs 60 = Rs 90
+Zero minutes                   PASS Rs 0
+Exactly 60 minutes             PASS Rs 30
+Daily maximum                  PASS Rs 100
+LocalTime overnight            PASS 60 min; Rs 30
+EBike flat fee                 PASS Rs 25
+Van daytime double             PASS Rs 60
+Van outside daytime            PASS Rs 30
+Five floor layout              PASS 200 slots across 5 floors
+Standard facility sizes        PASS 20, 150, 500 slots
+Last free slot                 PASS slot 0:0 allocated
+Facility full                  PASS returns null
+Duplicate registration         PASS rejected
+Invalid slot                   PASS rejected
+Negative duration              PASS rejected
+Unknown type                   PASS rejected
+Monthly pass                   PASS eligible student parks free
+Visitor one-day pass           PASS visitor parks free on pass date
+Ticket copy gets new number    PASS numbers differ
+Five-vehicle hand total        PASS program Rs 380; hand total Rs 380
+RESULT passed=22 failed=0
