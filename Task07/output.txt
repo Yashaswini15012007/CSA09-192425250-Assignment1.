@@ -1,0 +1,3 @@
+Records: 100000, rounds: 20
+Parallel arrays checksum=29998500, ns=7410500
+Objects checksum=29998500, ns=6358600
