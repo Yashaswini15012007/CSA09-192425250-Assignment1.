@@ -1,0 +1,4 @@
+Public: campus vehicle
+Protected via subclass: 30
+Package-private: North
+Private via getter: TN05XY5555
